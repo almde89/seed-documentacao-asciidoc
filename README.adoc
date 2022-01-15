@@ -1,0 +1,13 @@
+Seed para Projeto AsciidoctorJ
+===============================
+
+Gerado com gradle 7.2
+Asciidctor 3.3.2 (convert e pdf)
+Gradle Groove DSL
+Java 17
+jcenter como repesitório
+
+Estrutura
+=========
+sourceDir Padrão para o plugin (src/docs/asciidoc)
+outputDir buids/docs
